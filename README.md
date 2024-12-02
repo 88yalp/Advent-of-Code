@@ -4,7 +4,7 @@ Advent of code 2024 solved with julia to learn the basic of the language.
 ## Progress
 | Problem statement | Status task1 | Status task2 | solution1 | solution2 
 | :---: | :---: | :---: |  :---: |  :---: | 
-| https://adventofcode.com/2024/day/1  | ❌ | ❌ |  |  | 
+| https://adventofcode.com/2024/day/1  | ✔️ | ❌ | 1941353 |  | 
 | https://adventofcode.com/2024/day/2  | ❌ | ❌ |  |  | 
 | https://adventofcode.com/2024/day/3  | ❌ | ❌ |  |  | 
 | https://adventofcode.com/2024/day/4  | ❌ | ❌ |  |  | 
