@@ -6,7 +6,7 @@ Advent of code 2024 solved with julia to learn the basic of the language.
 | :---: | :---: | :---: |  :---: |  :---: | 
 | https://adventofcode.com/2024/day/1  | ✔️ | ✔️ | 1941353 | 22539317 | 
 | https://adventofcode.com/2024/day/2  | ✔️ | ✔️ | 660 | 689 | 
-| https://adventofcode.com/2024/day/3  | ❌ | ❌ |  |  | 
+| https://adventofcode.com/2024/day/3  | ✔️ | ❌ | 161289189 |  | 
 | https://adventofcode.com/2024/day/4  | ❌ | ❌ |  |  | 
 | https://adventofcode.com/2024/day/5  | ❌ | ❌ |  |  | 
 | https://adventofcode.com/2024/day/6  | ❌ | ❌ |  |  | 
