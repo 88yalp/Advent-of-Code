@@ -11,7 +11,7 @@ Advent of code 2024 solved with julia to learn the basic of the language.
 | https://adventofcode.com/2024/day/5  | ✔️ | ✔️ | 
 | https://adventofcode.com/2024/day/6  | ✔️ | ❌ | 
 | https://adventofcode.com/2024/day/7  | ✔️ | ✔️ |  
-| https://adventofcode.com/2024/day/8  | ❌ | ❌ |  
+| https://adventofcode.com/2024/day/8  | ✔️ | ✔️ |  
 | https://adventofcode.com/2024/day/9  | ❌ | ❌ |  
 | https://adventofcode.com/2024/day/10 | ❌ | ❌ |  
 | https://adventofcode.com/2024/day/11 | ❌ | ❌ |  
